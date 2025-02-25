@@ -1,4 +1,4 @@
-baseurl: '/useful-sites.github.io/sixeight.github.io/'
+baseurl: '/sixeight.github.io'
 permalink: pretty
 title: 'Sixeight Studio'
 domain: sixeight-studio.com      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
