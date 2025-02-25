@@ -1,6 +1,8 @@
-baseurl: '/'
+baseurl: '/sixeight.github.io/'
 permalink: pretty
 title: 'Sixeight Studio'
+domain: sixeight-studio.com      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://sixeight-studio.com # the base hostname and protocol for your site, e.g. http://example.com
 
 logo:
   mobile: "images/logo/sixeight-studio.svg"
