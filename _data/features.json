@@ -1,29 +1,20 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Compositional.",
+    "description": "Experimental. Only.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
+      "url": "images/features/Hybrid_Musical_Key_Signature.svg",
+      "width": 100,
+      "height": 100
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "As fast as a 128th note.",
+    "description": "Or a semihemidemisemiquaver.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
-    }
-  },
-  {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
+      "url": "images/features/1-128_note_quarter_demisemiquaver_(music).svg",
+      "width": 20,
+      "height": 60
     }
   }
 ]
